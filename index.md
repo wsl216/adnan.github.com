@@ -1,37 +1,662 @@
-## Welcome to GitHub Pages
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Pedram Kheirkhah Sangdeh - Digital Wireless Communications Lab</title>
 
-You can use the [editor on GitHub](https://github.com/wsl216/adnan.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <meta name="viewport" content="width=device-width">
+  <meta name="viewport" content="initial-scale=1.0">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <link rel="stylesheet" type="text/css" href="./Resources/semantic.min.css">
+  <script type="text/javascript" async="" src="./Resources/ga.js"></script><script src="./Resources/semantic.js"></script>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152070909-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-```markdown
-Syntax highlighted code block
+  gtag('config', 'UA-152070909-1');
+</script>
 
-# Header 1
-## Header 2
-### Header 3
+</head>
 
-- Bulleted
-- List
+<body>
 
-1. Numbered
-2. List
+<div class="ui stripe secondary inverted vertical masthead center aligned
+very padded segment">
 
-**Bold** and _Italic_ and `Code` text
+  <div class="ui text container">
+    <h1 class="ui inverted header">
+      <img class="ui small circular bordered image" src="./Resources/pedram.jpg" style="margin-right: 1%;">
+      <div class="content">
+        Pedram Kheirkhah Sangdeh
+        <div class="sub header">Digital Wireless Communications Lab, Ph.D. Candidate</div>
+        <div class="sub header" >sangdeh at msu.edu</div>
+		<a href="https://scholar.google.com/citations?user=VEDvJlYAAAAJ&hl=en"><img class="ui image" src="./Resources/gslogo.png" title="Google Scholar"
+		style="float: left; width: 30px; height: 30px; margin-left: 32%; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 
-[Link](url) and ![Image](src)
-```
+		<a href="https://www.linkedin.com/in/sangdeh/"><img class="ui image" title="Linkedin"
+		src="./Resources/linkedinlogo.png"
+		style="float: left; width: 30px; height: 30px; margin-right:0.2em; margin-left:0.2em; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+		<a href="https://www.researchgate.net/profile/Pedram_Kheirkhah/"><img class="ui image" title="Researchgate"
+		src="./Resources/RG.png"
+		style="float: left; width: 30px; height: 30px; margin-right:0.2em; margin-left:0.2em; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 
-### Jekyll Themes
+		<a href="https://github.com/PKSangdeh"><img class="ui image" title="GitHub"
+		src="./Resources/githublogo.png"
+		style="float: left; width: 30px; height: 30px; margin-left:0.2em; margin-bottom: 0.5em; margin-top: 2%;"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wsl216/adnan.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		<a href="./PDFs/Resume_v2.pdf"><img class="ui image" title="My Resume"
+		src="./Resources/resumelogo.png"
+		style="float: left; width: 30px; height: 30px; margin-right:0.2em; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      </div>
+    </h1>
+  </div>
+
+</div>
+
+<div class="ui stripe secondary vertical center aligned segment">
+  <div class="ui two column divided very relaxed middle aligned stackable grid
+  container">
+    <div class="row">
+      <div class="column">
+        <div class="ui left aligned container" style="font-size: 16">
+
+          <h2 class="ui center aligned header">Biography</h2>
+        <p style="text-align:justify">
+             	I am a CS Ph.D. student at the Michigan State University, currently working as research assistant at Digital Wireless Communications Lab.
+		 My research interests include performance analysis and implementation of innovative protocols for next-generation intelligent wireless networks.
+		To find more information about my research interests and experiences, <a href="./PDFs/Resume_v2.pdf">see my Resume</a>.
+
+          </p>
+
+          <div class="ui hidden divider"></div>
+
+          <h2 class="ui center aligned header">NEWS</h2>
+        <p style="text-align:justify">
+		<ul style="text-align:justify">
+		<!-- creating an ordered list -->
+					<li><font style="color:DarkOliveGreen"><b>08/2020</b></font>: One paper accepted by <font style="color:Maroon"><em><b>IEEE ICNP 2020</b></em></li></font>
+					<li><font style="color:DarkOliveGreen"><b>05/2020</b></font>: One paper accepted by <font style="color:Maroon"><em><b>IEEE/ACM Transaction on Networking</b></em></li></font>
+          <li><font style="color:DarkOliveGreen"><b>04/2020</b></font>: One paper accepted by <font style="color:Maroon"><em><b>ACM MobiHoc 2020</b></em></li></font>
+          <li><font style="color:DarkOliveGreen"><b>03/2020</b></font>: One paper accepted by <font style="color:Maroon"><em><b>IEEE Internet of Things Journal</b></em></li></font>
+          <li><font style="color:DarkOliveGreen"><b>12/2019</b></font>: One paper accepted by <font style="color:Maroon"><em><b>IEEE Transactions on Communications</b></em></li></font>
+          <li><font style="color:DarkOliveGreen"><b>07/2019</b></font>: A book chapter published by <font style="color:Maroon"><em><b>IntechOpen</b></em></li></font>
+          <li><font style="color:DarkOliveGreen"><b>12/2018</b></font>: Two papers accepted by <font style="color:Maroon"><em><b>IEEE INFOCOM 2019</b></em></li></font>
+			</ul>
+          </p>
+
+
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="ui container">
+          <div class="hidden divider"></div>
+          <div class="ui large feed">
+
+						<div class="event">
+              <div class="label">
+                <img src="./Resources/msu_logo_3.png" style="float: centered; width: 52px; height: 52px">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2020 - Present
+                </div>
+                <div class="summary">
+                  Ph.D. student in Computer Science <br>
+									<p style="font-size:16px">at Michigan State University</p>
+
+                </div>
+                <div class="extra text">
+                  Adviser: <a href="http://www.ece.louisville.edu/hzeng/">Dr. Huacheng Zeng</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="event">
+              <div class="label">
+                <img src="./Resources/uofl.png" style="float: centered; width: 50px; height: 50px">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2017 - Summer 2020
+                </div>
+                <div class="summary">
+                  Ph.D. student in Electrical Engineering <br>
+							 		  <p style="font-size:16px">at University of Louisville</p>
+                </div>
+                <div class="extra text">
+                  Adviser: <a href="http://www.ece.louisville.edu/hzeng/">Dr. Huacheng Zeng</a>
+                </div>
+              </div>
+            </div>
+
+
+              <div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/ut.png"  style="float: centered; width: 50px; height: 48px">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2011 - Spring 2014
+                </div>
+                <div class="summary">
+                  M.S. in Electical and Computer Engineering <br>
+                  <p style="font-size:16px">at University of Tehran</p>
+                </div>
+                <div class="extra text">
+                Adviser: <a href="http://ee.sharif.edu/~mirmohseni/">Dr. Mahtab Mirmohseni</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/iust.jpg"  style="float: centered; width: 47px; height: 47px">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2006 - Spring 2011
+                </div>
+                <div class="summary">
+                  B.S. in Electrical and Computer Engineering <br>
+									<p style="font-size:16px">at Iran University of Science and Technology</p>
+
+                </div>
+                <div class="extra text">
+                Adviser: <a href="http://www.iust.ac.ir/content/45105/Dr.-Falahati">Dr. Abolfazl Falahati</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="ui stripe very padded vertical segment">
+
+<h1 class="ui center aligned huge header">Selected Publications
+          <a class="tiny ui button" href="./indx_full.html">
+            </i> <p style="color:DarkBlue"><b>Full List of Publications &#8594;</b></p>
+          </a>
+</h1>
+<div class="ui hidden divider"></div>
+
+<div class="ui centered cards">
+
+
+	<!-- --------------------------- CRN TON ------------------------------- -->
+	  <div class="ui card">
+	    <div class="content">
+	      <div class="header">A Spectrum Sharing Scheme for CRNs: Design and Experiments</div>
+
+	      <div class="meta">
+	        <span><a href="https://ton.lids.mit.edu/">IEEE/ACM Transactions on Networking</span></a>
+	      </div>
+		<div class="label">
+		 <img vspace="21" class="ui image" src="./Resources/demo_sharing.png">
+	      	</div>
+	      <div class="description">
+	        <p style="text-align:justify">
+	        We proposed a spectrum sharing scheme for cognitive radio networks where
+	        secondary users have no knowledge about the primary network.
+	        We have built a prototype of our scheme that showed the secondary network could coexist with commercial Wi-Fi and LTE devices without degrading their performance.
+	        </p>
+<!--	        <p style="text-align:justify">
+	        Joint work with <a href="https://hosseinpirayesh.github.io/">Hossein Pirayesh</a>, <a href="https://www.linkedin.com/in/adnan-quadri/"> Adnan Quadri</a>, and <a href="http://www.ece.louisville.edu/hzeng/"> Huacheng Zeng</a>.
+	        </p>
+-->
+	      </div>
+	    </div>
+	    <div class="extra content">
+
+	          <a class="tiny ui left floated button" href="./PDFs/spectrum_sharing_ton.pdf">
+	            </i> Pdf
+	          </a>
+	          <a class="tiny ui left floated button" href="http://www.ece.louisville.edu/hzeng/spectrum_sharing.html">
+	            </i> Demo
+	          </a>
+	         <a class="tiny ui left floated button" href="./Resources/bibs/bibtex_sharing.html">
+	            </i> BibTex
+	          </a>
+
+	    </div>
+	  </div>
+
+		<!-- --------------------------- ICNP 2020 ------------------------------- -->
+		  <div class="ui card">
+		    <div class="content">
+		      <div class="header">LB-SciFi: Online Learning-Based Channel Feedback in WLANs </div>
+
+		      <div class="meta">
+		        <span><a href="https://icnp20.cs.ucr.edu">ICNP 2020</span></a>
+		      </div>
+			<div class="label">
+			 <img vspace="40" class="ui image" src="./Resources/lb_scifi_3.png">
+		      	</div>
+		      <div class="description">
+		        <p style="text-align:justify">
+							LB-SciFi is a learning-based feedback framework for MU-MIMO in WLANs.
+							It employs DNN autoencoders to compress CSI in WiFi networks, thereby conserving airtime and improving
+							spectral efficiency.
+							Experimental results show that it offers 73% airtime overhead reduction and 69% throughput gain.
+		        </p>
+
+		      </div>
+		    </div>
+		    <div class="extra content">
+
+		          <a class="tiny ui left floated button" href="./PDFs/lb_scifi.pdf">
+		            </i> Pdf
+		          </a>
+<!--		          <a class="tiny ui left floated button" href="http://www.ece.louisville.edu/hzeng/spectrum_sharing.html">
+		            </i> Demo
+		          </a>
+		         <a class="tiny ui left floated button" href="./Resources/bibs/bibtex_sharing.html">
+		            </i> BibTex
+		          </a>
+-->
+		    </div>
+		  </div>
+
+
+			<!-- -------------------------- NOMA TCOM ------------------------------ -->
+			  <div class="ui card">
+			    <div class="content">
+			      <div class="header">A Practical Downlink NOMA Scheme for WLANs</div>
+
+			      <div class="meta">
+			        <span><a href="https://www.comsoc.org/publications/journals/ieee-tcom">IEEE Transactions on Communications</span></a>      </div>
+				<br>
+				<div class="label">
+				 <img vspace="8" class="ui image" src="./Resources/noma.svg">
+			      	</div>
+				<br>
+			      <div class="description">
+			        <p style="text-align:justify">
+				We proposed a downlink NOMA scheme for WLANs including precoder design, user grouping, and successive interference cancellation (SIC).
+				We prototyped the proposed scheme and
+				experimental results show that the proposed downlink NOMA signiﬁcantly improves the weak user’s date rate and sum rate.
+				  </p>
+
+			      </div>
+			    </div>
+			    <div class="extra content">
+
+			          <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/document/8955878">
+			            </i> IEEExplore
+			          </a>
+			          <a class="tiny ui left floated button" href="./PDFs/noma.pdf">
+			            </i> PDF
+			          </a>
+			           <a class="tiny ui left floated button" href="./Resources/bibs/noma.html">
+			            </i> BibTex
+			          </a>
+			    </div>
+			  </div>
+
+<!-- ------------------------- TCCI MobiHoC ---------------------------- -->
+<div class="ui card">
+    <div class="content">
+      <div class="header">TCCI: Taming Co-Channel Interference for Wireless LANs</div>
+
+      <div class="meta">
+        <span><a href="https://www.sigmobile.org/mobihoc/2020/accepted-papers.html"> MobiHoc 2020 </a></span>
+      </div>
+	<div class="label">
+	 <img vspace="5" class="ui image" src="./Resources/tcci.png">
+	       	</div>
+      <div class="description">
+        <p style="text-align:justify">
+
+
+TCCI is an interference management scheme enabling concurrent transmission in WLANs.
+TCCI requires neither network-wide synchronization nor inter-network data sharing, and therefore is amenable to implementation.
+We have illustrated TCCI compatibility with commercial devices.
+      </div>
+    </div>
+    <div class="extra content">
+
+         <!-- <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/document/7002147">
+            </i> IEEExplore
+          </a> -->
+         <a class="tiny ui left floated button" href="./PDFs/tcci_mobihoc.pdf">
+            </i> PDF
+          </a>
+        <!--<a class="tiny ui left floated button" href="./Resources/bibs/bia2.html">
+            </i> BibTex
+          </a>-->
+
+    </div>
+  </div>
+	<!-- ------------------------- WiFi-IOT IOTJ --------------------------- -->
+	  <div class="ui card">
+	    <div class="content">
+	      <div class="header">Coexistence of Wi-Fi and IoT Communications in WLANs</div>
+	      <div class="meta">
+	        <span><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE Internet of Things Journal</span></a>
+	      </div>
+		<br>
+		<div class="label">
+		 <img  vspace="10" class="ui image" src="./Resources/wifi_iot.png">
+	      	</div>
+	      <div class="description">
+	        <p style="text-align:justify">
+		<br>
+
+	WiFi-IoT coexistence adds energy-efficient IoT communications into WLANs. WiFi-IoT features two
+	innovative techniques: an asymmetric physical (PHY) design and a transparent coexistence scheme.
+	The transparent coexistence scheme enables a multi-antenna AP to serve Wi-Fi and IoT devices simultaneously.</p>
+
+	      </div>
+	    </div>
+	    <div class="extra content">
+
+	          <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/document/9060823">
+	            </i> IEEExplore
+	          </a>
+	          <a class="tiny ui left floated button" href="./PDFs/iotj.pdf">
+	            </i> PDF
+	          </a>
+	           <a class="tiny ui left floated button" href="./Resources/bibs/iotj.html">
+	            </i> BibTex
+	          </a>
+	    </div>
+	  </div>
+
+<!-- ------------------------- CRN INFOCOM ----------------------------- -->
+  <div class="ui card">
+    <div class="content">
+      <div class="header">A Practical Underlay Spectrum Sharing Scheme for CRNs</div>
+
+      <div class="extra content">
+        <a href="https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference"> INFOCOM 2019</a>
+      </div>
+	<br>
+	<div class="label">
+	 <img  vspace="0" class="ui image" src="./Resources/underlay.svg">
+      	</div>
+      <div class="description">
+        <p style="text-align:justify">
+	<br>
+
+This paper proposes a practical underlay spectrum sharing scheme for CRNS where the primary users are oblivious to secondary users.
+ The key components of our scheme are two MIMO-based interference cancellation techniques, blind beamforming and blind interference cancellation techniques.</p>
+
+      </div>
+    </div>
+    <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/abstract/document/8737534">
+            </i> IEEExplore
+          </a>
+          <a class="tiny ui left floated button" href="./PDFs/underlay.pdf">
+            </i> PDF
+          </a>
+           <a class="tiny ui left floated button" href="./Resources/bibs/underlay.html">
+            </i> BibTex
+          </a>
+    </div>
+  </div>
+
+<!-- ------------------------- IoT INFOCOM ----------------------------- -->
+  <div class="ui card">
+    <div class="content">
+      <div class="header">EE-IoT: An energy-efficient IoT communication for WLANs</div>
+
+      <div class="extra content">
+        <a href="https://infocom2019.ieee-infocom.org/accepted-paper-list-main-conference"> INFOCOM 2019</a>
+      </div>
+	<br>
+	<div class="label">
+	 <img  vspace="0" class="ui image" src="./Resources/iot2.svg">
+      	</div>
+      <div class="description">
+        <p style="text-align:justify">
+	<br>
+
+In this paper, we propose an energy-efficient IoT communication scheme by taking advantage of the existing WiFi infrastructure.
+EE-IoT will not only avoid monthly service charge for the end users but also maintain a low power consumption for IoT devices.</p>
+
+      </div>
+    </div>
+    <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/document/8737625">
+            </i> IEEExplore
+          </a>
+          <a class="tiny ui left floated button" href="./PDFs/iot.pdf">
+            </i> PDF
+          </a>
+           <a class="tiny ui left floated button" href="./Resources/bibs/iot.html">
+            </i> BibTex
+          </a>
+    </div>
+  </div>
+
+<!-- --------------------------- SDOF IET ------------------------------ -->
+   <div class="ui card">
+    <div class="content">
+      <div class="header">SDoF of two-user X-channel with synergistic alternating CSIT</div>
+
+      <div class="meta">
+        <span><a href="https://digital-library.theiet.org/content/journals/iet-ifs"> IET Information Security </a></span>
+      </div>
+	<div class="label">
+	 <img vspace="15" class="ui image" src="./Resources/iet.png">
+	       	</div>
+      <div class="description">
+        <p style="text-align:justify">
+
+
+ In this paper, a two-user SISO X-channel with confidential messages is addressed.
+ During different time slots, the CSIT alternates between three states including perfect, delayed, and null.
+ Several schemes capable of attaining the maximum achievable SDoF are presented.
+        </p>
+
+      </div>
+    </div>
+    <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://ieeexplore.ieee.org/document/8611495">
+            </i> IEEExplore
+          </a>
+         <a class="tiny ui left floated button" href="./PDFs/iet.pdf">
+            </i> PDF
+          </a>
+          <a class="tiny ui left floated button" href="./Resources/bibs/iet.html">
+            </i> Bibtex
+          </a>
+
+    </div>
+  </div>
+
+   </div>
+
+</div>
+
+</div>
+
+<div class="ui stripe secondary very padded vertical segment">
+
+<h1 class="ui center aligned huge header">Current Projects</h1>
+
+<div class="ui hidden divider"></div>
+
+<div class="ui centered cards">
+
+<!-- --------------------------- D2D TVT ------------------------------- -->
+   <div class="ui card">
+    <div class="content">
+      <div class="header">DM-COM: Concurrent D2D and MU-MIMO Communications</div>
+
+	<div class="label">
+	 <img vspace="5" class="ui image" src="./Resources/d2d.svg">
+	       	</div>
+      <div class="description">
+        <p style="text-align:justify">
+
+
+DM-COM enables coexistence of D2D and MU-MIMO communications in cellular networks by mitigating the co-channel interference between the two subsystems.</p>
+
+      </div>
+    </div>
+  </div>
+
+<!-- --------------------------- D-MIMO ------------------------------- -->
+  <div class="ui card">
+    <div class="content">
+      <div class="header"> Distributed MIMO for WLANs' Uplink</div>
+      <div class="meta">
+      </div>
+	<div class="label">
+	<br>
+	 <img vspace="10" class="ui image" src="./Resources/dumimo.svg">
+      	</div>
+      <div class="description">
+        <p style="text-align:justify">
+	<br>
+This project deals with a practical solution to decoding asynchronous uplink packets from independent users to distributed APs. It enhance the throughput without inter-user synchornization. 	</p>
+
+      </div>
+    </div>
+  </div>
+
+<!-- --------------------------- MassFi ------------------------------- -->
+  <div class="ui card">
+    <div class="content">
+      <div class="header">MassFi: Beyond Connectivity of WiFi 6</div>
+      <div class="meta">
+      </div>
+	<div class="label">
+	 <img vspace="25" class="ui image" src="./Resources/lb_scifi_2.png">
+      	</div>
+      <div class="description">
+	<p style="text-align:justify">
+MassFi is an ML-based approach enabling the MU-MIMO-OFDMA mixed mode for 802.11ax.
+To this end, MassFi benefits from a low-overhead sounding framework and an efficient 2D resource allocation.
+</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+<!--<h3 class="ui center aligned header">More to come very soon...</h3>-->
+
+</div>
+
+
+<div class="ui stripe very padded vertical segment">
+
+<h1 class="ui center aligned huge header">Experimental Data Sets</h1>
+<h5 class="ui center aligned header"> <p style="color:DimGray"><b>If you need real experimental datasets to evaluate your ideas, you can use the following datasets. No permission is required.</b></p>  </h5>
+<div class="ui hidden divider"></div>
+
+<div class="ui centered cards">
+  <div class="ui card">
+    <div class="content">
+      <div class="header"> CSI for 3600 user pairs: two users and one two-antenna BS/AP at 2.4GHz and 5MSps </div>
+      <div class="meta">
+      </div>
+	<div class="label">
+	<br>
+	 <img vspace="18" class="ui image" src="./Resources/pdf2.png">
+      	</div>
+
+      <div class="description">
+        	<p style="text-align:justify">
+		<br>
+		</p>
+		<p style="text-align:justify">
+This test measures the channel gain difference for 3600 users pairs to investigate the statistics of the gain difference among all possible user pairs for using in NOMA.	. We have measured
+the average channel gain of users on 2.485 GHz with 5MHz bandwidth.</p>
+      </div>
+    </div>
+            <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://github.com/PKSangdeh/3600_CSI_Pairs">
+            </i> Data and Report
+          </a>
+
+
+    </div>
+  </div>
+  <div class="ui card">
+    <div class="content">
+      <div class="header">8x8 MIMO for indoor WLANs at 2.1GHz and 25MHz: freq. response and correlation</div>
+      <div class="meta">
+      </div>
+	<div class="label">
+	<br>
+	 <img vspace="0" class="ui image" src="./Resources/plan.png">
+      	</div>
+      <div class="description">
+        <p style="text-align:justify">
+	<br>
+      This test aims at measuring the channel frequency response of an indoor wireless
+       environment over 25 MHz bandwidth in 2.1 GHz band.
+       Based on the measured results, we can study the rank deficiency of MIMO channels to have a better DoF allocation for MIMO transmissions.
+ 	</p>
+
+      </div>
+    </div>
+            <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://github.com/PKSangdeh/8x8_MIMO_freq_indoor">
+            </i> Data and Report
+          </a>
+
+
+    </div>
+  </div>
+
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Channel Reciprocity Test for USRP N210: DL/UL Mistmach in 7 Hours</div>
+      <div class="meta">
+      </div>
+	<div class="label">
+	 <img vspace="16" class="ui image" src="./Resources/usrp.jpg">
+      	</div>
+      <div class="description">
+	<p style="text-align:justify">
+This test examines the channel reciprocity for USRP N210 at 2.4 GHz with 5MSps for 7 hours.
+Wi-Fi legacy frame is used to measure the uplink and downlink channels over 52 valid subcarriers. We used <a https://dl.acm.org/citation.cfm?id=2348553">Argos</a> as a relative calibration method to measure and compensate the mismatch for 4 N210 USRPs with SBX daughterboards.
+        </p>
+      </div>
+    </div>
+        <div class="extra content">
+
+          <a class="tiny ui left floated button" href="https://github.com/PKSangdeh/DL-UL-Mismatch-vs-time">
+            </i> Data and Report
+          </a>
+
+
+    </div>
+  </div>
+
+</div>
+
+
+
+<!--<h3 class="ui center aligned header">More to come very soon...</h3>-->
+
+</div>
+<div class="ui secondary stripe very padded vertical segment">
+
+Last updated: 08/23/2020-23:54:29
+
+</div>
+
+
+
+</body></html>
